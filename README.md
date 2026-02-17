@@ -1,13 +1,14 @@
-cloud-security-lab/
-│
-├── README.md
-├── aws/
-│   ├── iam-misuse-detection.md
-│   ├── cloudtrail-analysis.md
-│
-├── sentinel/
-│   ├── kql-queries.md
-│   ├── analytics-rules.md
-│
-└── diagrams/
-    └── cloud-architecture.png
+# Cloud Security Lab
+
+## AWS Monitoring
+- CloudTrail ingestion
+- IAM privilege escalation detection
+- Suspicious API activity monitoring
+
+## Sentinel Hunting Queries
+- Failed login anomaly
+- Impossible travel detection
+- Privilege escalation behavior
+
+## Outcome
+Built cloud-native detection rules and validated attack simulations.
